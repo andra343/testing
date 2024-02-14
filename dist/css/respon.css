@@ -1,0 +1,153 @@
+.atengah {
+  margin: 0 250px;
+  max-width: 20%;
+}
+.agambar {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.tengah {
+  margin: 0 10px;
+  max-width: 55%;
+}
+
+.gambar-tengah {
+  margin: 0 6rem;
+  width: 60%;
+}
+
+.gambar-pro-1
+{
+  width: 30%;
+}
+
+.tengah-pro-1 {
+  margin: 0 10px;
+}
+
+/* laptop */
+@media (max-width: 1366px) {
+  .atengah {
+    margin: 0 250px;
+    max-width: 20%;
+  }
+  .agambar {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .tengah {
+    margin: 0 50px;
+  }
+
+  .gambar-tengah {
+    width: 40%;
+    margin: 0 8rem;
+  }
+
+  .gambar-pro-1
+{
+  width: 30%;
+}
+
+.tengah-pro-1 {
+  margin: 0 10px;
+}
+
+}
+@media (max-width: 1024px) {
+  .atengah {
+    margin: 0 150px;
+    max-width: 30%;
+  }
+  .agambar {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .tengah {
+    margin: 0 50px;
+  }
+
+  .gambar-tengah {
+    width: 40%;
+    margin: 0 8rem;
+  }
+
+  .gambar-pro-1
+{
+  width: 60%;
+}
+
+.tengah-pro-1 {
+  margin: 0 40px;
+  max-width: 40%;
+}
+
+}
+
+/* tablet */
+@media (max-width: 768px) {
+  .atengah {
+    margin: 0 150px;
+    max-width: 30%;
+  }
+  .agambar {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .tengah {
+    margin: 0 50px;
+    width: auto;
+  }
+  .gambar {
+    width: 100%;
+  }
+  .gambar-tengah {
+    margin: 0 8.5rem;
+  }
+    .gambar-pro-1
+{
+  width: 85%;
+}
+
+.tengah-pro-1 {
+  margin: 0 70px;
+  max-width: 50%;
+}
+}
+
+/* hp */
+@media (max-width: 450px) {
+  .atengah {
+    margin: 0 70px;
+    max-width: 50%;
+  }
+  .agambar {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .tengah {
+    margin: 0 70px;
+    width: 150px;
+  }
+
+  .gambar {
+    width: 100%;
+  }
+
+  .gambar-tengah {
+    margin: 0 7rem;
+  }
+
+  .gambar-pro-1
+{
+  width: 95%;
+}
+
+.tengah-pro-1 {
+  margin: 0 60px;
+  max-width: 50%;
+}
+
+}
